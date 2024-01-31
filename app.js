@@ -4,7 +4,7 @@ const app = express();
 counter=0;
 const toys = [
     {
-        name: "kapla",
+        name: "playmobile",
         price: 100,
         id: "123"
     },
